@@ -73,3 +73,7 @@ The app will start running on your mobile device
 Scan the QR code using Expo Go
 
 The app will start running on your mobile device
+
+## Screenshots
+
+Screenshots of this app are available in the screenshot folder of this respository
